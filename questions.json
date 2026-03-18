@@ -1,0 +1,33 @@
+{
+  "rrb": [
+    {
+      "question": "What is the full form of RRB?",
+      "options": ["Railway Recruitment Board", "Regional Railway Bureau", "Rural Road Bureau", "Railway Relief Board"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is the largest railway zone in India?",
+      "options": ["Northern Railway", "Western Railway", "Eastern Railway", "Southern Railway"],
+      "answer": 0
+    }
+  ],
+  "ssc": [
+    {
+      "question": "In which year did the First Battle of Panipat take place?",
+      "options": ["1526", "1556", "1761", "1520"],
+      "answer": 0
+    },
+    {
+      "question": "Which article of the Indian Constitution deals with the Right to Equality?",
+      "options": ["Article 14-18", "Article 19", "Article 21", "Article 32"],
+      "answer": 0
+    }
+  ],
+  "upsc": [
+    {
+      "question": "Who was the first woman to become the Governor of an Indian state?",
+      "options": ["Sarojini Naidu", "Sucheta Kripalani", "Indira Gandhi", "Vijayalakshmi Pandit"],
+      "answer": 0
+    }
+  ]
+}
